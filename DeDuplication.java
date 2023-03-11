@@ -1,14 +1,7 @@
 import java.util.Arrays;
-import java.util.HashSet;
+
 import java.util.Scanner;
 
-/**
- * @author nethmeeperera
- * @version 01/18/2023
- * CSC2720 Lab #21093
- * lab time : Wednesday 16:00-16:50
- * due on 01/22/2023
- */
 public class DeDuplication {
     static int removeDup(int arr[], int n) {
 
