@@ -1,10 +1,4 @@
-/**
- * @author nethmeeperera
- * @version 01/27/2023
- * CSC2720 Lab #21093
- * lab time : Wednesday 16:00-16:50
- * due on 01/29/2023
- */
+
 import java.util.Arrays;
 
 public class CountingSort {
