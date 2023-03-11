@@ -1,11 +1,4 @@
 import java.util.Arrays;
-/**
- * @author nethmeeperera
- * @version 02/09/2023
- * CSC2720 Lab #21093
- * lab time : Wednesday 16:00-16:50
- * due on 02/12/2023
- */
 public class MergeSort {
 
     //removing duplicates
@@ -74,9 +67,3 @@ public class MergeSort {
                 System.out.print(arr[i] + " ");
         }
 }
-/*  for part 02 (Test Cases)
- * 01. set array including negative numbers
- * 02.set array as sorted array
- * 03. change array size
- * 04.set array with only one element
- */
