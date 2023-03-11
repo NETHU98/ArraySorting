@@ -1,11 +1,3 @@
-/**
- * @author nethmeeperera
- * @version 02/18/2023
- * CSC2720 Lab #21093
- * lab time : Wednesday 16:00-16:50
- * due on 02/19/2023
- */
-//part 01
 public class QuickSort {
 
 
@@ -81,9 +73,3 @@ public class QuickSort {
 
     }
 }
-//part 02
-/* 1. use single element array ex: arr[]={1};
-   2. null input
-   3. use an already sorted array
-   4. use reversed array
-*  */
