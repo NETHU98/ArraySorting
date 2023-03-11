@@ -1,10 +1,5 @@
 import java.util.Scanner;
-/**
- * @author nethmeeperera
- * @version 02/20/2023
- * CSC2720 HW  #21093
- * due on 02/21/2023
- */
+
 public class ReverseArray {
 
     public static void main(String[] args) {
@@ -57,12 +52,4 @@ public class ReverseArray {
             }
     }
 }
-/*
-Test Cases
-1. null input
-2.enter already reversed array
-3. enter arrays with same number
-4. array with duplicates
-5. array with negative numbers
 
- */
