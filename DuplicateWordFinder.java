@@ -1,9 +1,4 @@
-/**
- * @author nethmeeperera
- * @version 02/20/2023
- * CSC2720 HW  #21093
- * due on 02/21/2023
- */
+
 public class  DuplicateWordFinder {
 
     private static String[] words;
@@ -38,13 +33,5 @@ public class  DuplicateWordFinder {
     }
 }
 
-/*Test Cases
-1. enter different word with same length of a word already in list. for ex: enter "Tall" same as "Fall"
-2. null input
-3. write list without any duplicates
-4. list with duplicate for each word
-5.list with duplicates of just one word
 
-
- */
 
