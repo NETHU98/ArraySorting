@@ -1,12 +1,6 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
-/**
- * @author nethmeeperera
- * @version 03/03/2023
- * CSC2720 Lab #21093
- * lab time : Wednesday 16:00-16:50
- * due on 03/05/2023
- */
+
 public class ArrayDq {
 
     public static void main(String[] args) {
@@ -59,13 +53,4 @@ public class ArrayDq {
     }
 
 }
-// Time Complexity of the Max Queue: O(1)
-// Space Complexity on the Max Queue : O(4)  n= elements
 
-/*
-test cases
-1.duplicate elements
-2. null input queue
-3. single element queue
-4. maximum value at front of queue
- */
