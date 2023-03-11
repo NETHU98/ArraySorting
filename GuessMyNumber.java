@@ -1,9 +1,4 @@
-/**
- * @author nethmeeperera
- * @version 01/11/2023
- * CSC2720 Lab #
- * due on 01/15/2023
- */
+
 import java.util.Scanner;
 public class GuessMyNumber {
 
