@@ -1,12 +1,4 @@
 import java.util.Scanner;
-
-/**
- * @author nethmeeperera
- * @version 02/02/2023
- * CSC2720 Lab #21093
- * lab time : Wednesday 16:00-16:50
- * due on 02/05/2023
- */
 public class SelectionSort {
     public static void sort(int[] array) {
         int n = array.length;
